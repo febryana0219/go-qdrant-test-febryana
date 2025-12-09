@@ -1,0 +1,16 @@
+# Ignore JetBrains IDE settings
+.idea/
+.idea/*
+*.iml
+
+# Go build artifacts
+/bin/
+/build/
+/dist/
+
+# Go modules cache (opsional)
+/vendor/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
